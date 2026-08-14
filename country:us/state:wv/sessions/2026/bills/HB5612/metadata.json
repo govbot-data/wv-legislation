@@ -389,6 +389,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T21:17:24Z"
       }
+    },
+    {
+      "description": "Chapter 59, Acts, Regular Session, 2026",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:58:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -488,7 +500,7 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:17:24Z",
+    "logs_latest_update": "2026-08-14T06:58:56Z",
     "text_extraction_latest_update": "2026-07-21T22:00:25.802607Z"
   }
 }
